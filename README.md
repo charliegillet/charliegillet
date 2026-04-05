@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Charlie
 
-<!--
-**charliegillet/charliegillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Intern at [Geopogo](https://geopogo.com), building computer vision pipelines for automated building code compliance.
 
-Here are some ideas to get you started:
+UCSD Data Science '25 grad, currently focused on applied ML and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- Object detection for ADA/AODA compliance checking (YOLOv8, Python)
+- [Prompt injection detection](https://github.com/charliegillet/PromptInj-Detection) eval harness across 14 attack categories
+- Open-source security contributions to [rocketride-server](https://github.com/rocketride-org/rocketride-server)
+
+**Tools I use most:** Python, NumPy/pandas, scikit-learn, PyTorch
+
+[LinkedIn](https://linkedin.com/in/charliegillet)
+
+Email: charlie.gillet1@gmail.com
