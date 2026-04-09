@@ -1,6 +1,6 @@
 ### Hey, I'm Charlie
 
-ML Intern at [Geopogo](https://geopogo.com), building computer vision pipelines for automated building code compliance.
+Data Science Intern at [Geopogo](https://geopogo.com), building computer vision pipelines for automated building code compliance.
 
 UCSD Data Science '25 grad, currently focused on applied ML and AI.
 
