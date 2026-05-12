@@ -1,8 +1,8 @@
 ### Hey, I'm Charlie
 
-AI Developer Intern at [RocketRide](https://rocketride.ai/).
+AI Developer at [RocketRide](https://rocketride.ai/).
 
-UCSD Data Science '25 grad, currently focused on applied ML and AI.
+UCSD Data Science '25 grad, currently focused on software development and agentic AI.
 
 **What I've been working on recently:**
 - Object detection for ADA/AODA compliance checking (YOLOv12, Python)
