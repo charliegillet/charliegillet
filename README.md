@@ -5,7 +5,6 @@ I'm an AI Engineer at [RocketRide](https://rocketride.ai/) and a UCSD Data Scien
 **What I've built lately:**
 
 - **[RedDial](https://github.com/charliegillet/reddial)** is an autonomous voice red-team for AI phone agents. It social-engineers a target agent into leaking planted (fake) data, scores every call, then runs an eval loop that hardens the agent one attack at a time. Top 4 at the YC Voice Agents Hackathon (2026), built with Nihal Nihalani on Pipecat, NVIDIA Nemotron + Parakeet, and Cekura. [60-second demo](https://youtu.be/Pg8_IObXY3M).
-- **[PromptInj-Detection](https://github.com/charliegillet/PromptInj-Detection)** is a reusable eval harness that measures how reliably an LLM catches prompt injection across 8 attack types, scored on accuracy, precision, recall, and F1.
 - **[LVM-Neural-Data-Analysis](https://github.com/charliegillet/LVM-Neural-Data-Analysis)** is my UCSD capstone: hierarchical latent variable models (vLGP, pCCA) applied to neural population data from the IBL dataset.
 
 **A few other things:**
