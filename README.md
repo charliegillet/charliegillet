@@ -1,6 +1,6 @@
-### Hey, I'm Charlie 👋
+### Charlie Gillet
 
-I'm an AI Engineer at [RocketRide](https://rocketride.ai/), previously UCSD Data Science. I build LLM and agent systems, mostly around evals and AI security. These days I'm focused on Agentic AI.
+I'm an AI Engineer at [RocketRide](https://rocketride.ai/), and a 6x hackathon winner (most recently, top 4 overall at Y Combinator's Voice Agents Hackathon on May 30, 2026). Previously UCSD Data Science. Currently I'm focused on AI agents.
 
 **What I've built lately:**
 
@@ -9,10 +9,8 @@ I'm an AI Engineer at [RocketRide](https://rocketride.ai/), previously UCSD Data
 
 **A few other things:**
 
-- 6x hackathon wins, including one that won a $10,000 Patronus AI prize at the OpenEnv Hackathon.
-- I spent 2.5 years teaching data science at UCSD.
-- Years ago, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
-
-**Stack:** Python, TypeScript, FastAPI, React, Pipecat, vector DBs, and the usual LLM eval tooling.
+- I spent 2.5 years teaching data science at UCSD's Data Science department (HDSI).
+- I have ran two marathons: San Diego Rock n' Roll 26.2 (June 2025), and Ventura 26.2 (April 2026).
+- Years ago, I peaked at #9 in the world in competitive Mario Kart and held 8 time trial world records at once.
 
 [LinkedIn](https://linkedin.com/in/charliegillet) · charlie.gillet1@gmail.com
