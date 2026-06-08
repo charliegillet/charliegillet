@@ -1,6 +1,6 @@
 ### Charlie Gillet
 
-I'm an AI Engineer at [RocketRide](https://rocketride.ai/), and a 6x hackathon winner (most recently, top 4 overall at Y Combinator's Voice Agents Hackathon on May 30, 2026). Previously UCSD Data Science. Currently I'm focused on AI agents.
+I'm an AI Engineer at [RocketRide](https://rocketride.ai/), and a 6x hackathon winner (most recently, top 4 overall at Y Combinator's Voice Agents Hackathon on May 30, 2026). Previously UCSD Data Science.
 
 **What I've built lately:**
 
