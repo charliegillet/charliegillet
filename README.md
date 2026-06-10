@@ -1,6 +1,16 @@
-### Charlie Gillet
+<div align="center">
+  <a href="https://github.com/charliegillet">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+RocketRide;UCSD+Data+Science+%2725;Building+LLM+%26+agent+systems;Applied+AI+%2F+Forward+Deployed+Engineer" alt="AI Engineer @ RocketRide" />
+  </a>
+</div>
 
-I'm an AI Engineer at [RocketRide](https://rocketride.ai/), and a 6x hackathon winner (most recently, top 4 overall at Y Combinator's Voice Agents Hackathon on May 30, 2026). Previously UCSD Data Science.
+### Hey, I'm Charlie 👋
+
+I'm an AI Engineer at [RocketRide](https://rocketride.ai/) and a UCSD Data Science '25 grad. I build LLM and agent systems, mostly around evals and AI security. These days I'm focused on Applied AI and Forward Deployed Engineering.
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliegillet&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true&custom_title=Contributions%20in%20the%20last%20month" alt="Charlie's contribution activity over the last month" />
+</div>
 
 **What I've built lately:**
 
@@ -9,8 +19,10 @@ I'm an AI Engineer at [RocketRide](https://rocketride.ai/), and a 6x hackathon w
 
 **A few other things:**
 
-- I spent 2.5 years teaching data science at UCSD's Data Science department (HDSI).
-- I have ran two marathons: San Diego Rock n' Roll 26.2 (June 2025), and Ventura 26.2 (April 2026).
-- Years ago, I peaked at #9 in the world in competitive Mario Kart and held 8 time trial world records at once.
+- I've been on several winning hackathon teams, including one that won a $10,000 Patronus AI prize at the OpenEnv Hackathon.
+- I spent 7 quarters as an instructional assistant teaching intro data science at UCSD.
+- Before AI, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
+
+**Stack:** Python, TypeScript, FastAPI, React, Pipecat, vector DBs, and the usual LLM eval tooling.
 
 [LinkedIn](https://linkedin.com/in/charliegillet) · charlie.gillet1@gmail.com
