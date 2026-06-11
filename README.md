@@ -13,6 +13,4 @@
 - I spent 7 quarters as an instructional assistant teaching intro data science at UCSD.
 - As a kid, I peaked at 8 simultaneous Mario Kart time trial world records (Mario Kart Wii custom tracks). I'm also a two-time marathoner.
 
-**Stack:** Python, TypeScript, FastAPI, React, Pipecat, vector DBs, and the usual LLM eval tooling.
-
 [LinkedIn](https://linkedin.com/in/charliegillet) · charlie.gillet1@gmail.com
