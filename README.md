@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliegillet&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true&custom_title=Contributions%20in%20the%20last%20month" alt="Charlie's contribution activity over the last month" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliegillet&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true&custom_title=charliegillet%27s%20Contributions" alt="Charlie's contribution activity over the last month" />
 </div>
 
 ### Hackathons & Projects
