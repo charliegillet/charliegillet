@@ -9,7 +9,7 @@
 
 **A few other things:**
 
-- I've been on several winning hackathon teams, including one that won a $10,000 Patronus AI prize at the OpenEnv Hackathon.
+- 6x hackathon wins, including $10,000 Patronus AI prize at the OpenEnv Hackathon in SF, Mar 2026.
 - I spent 7 quarters as an instructional assistant teaching intro data science at UCSD.
 - As a kid, I peaked at 8 simultaneous Mario Kart time trial world records (Mario Kart Wii custom tracks). I'm also a two-time marathoner.
 
