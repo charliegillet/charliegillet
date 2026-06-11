@@ -19,9 +19,9 @@ I'm an AI Engineer at [RocketRide](https://rocketride.ai/) and a UCSD Data Scien
 
 **A few other things:**
 
-- I've been on several winning hackathon teams, including one that won a $10,000 Patronus AI prize at the OpenEnv Hackathon.
+- 6x hackathon wins, including Top 4 at Y Combinator's Voice Agents Hackathon (May 30, 2026)
 - I spent 7 quarters as an instructional assistant teaching intro data science at UCSD.
-- Before AI, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
+- As a kid, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
 
 **Stack:** Python, TypeScript, FastAPI, React, Pipecat, vector DBs, and the usual LLM eval tooling.
 
