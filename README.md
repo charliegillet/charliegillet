@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/charliegillet">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+RocketRide;UCSD+Data+Science+%2725;Building+LLM+%26+agent+systems;Applied+AI+%2F+Forward+Deployed+Engineer" alt="AI Engineer @ RocketRide" />
-  </a>
-</div>
+### Hey, I'm Charlie 👋
+
+I'm an AI Engineer at [RocketRide](https://rocketride.ai/) and a UCSD Data Science '25 grad. I build LLM and agent systems, mostly around evals and AI security. These days I'm focused on Applied AI and Forward Deployed Engineering.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charliegillet&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&title_color=58a6ff&hide_border=true&custom_title=Contributions%20in%20the%20last%20month" alt="Charlie's contribution activity over the last month" />
@@ -15,9 +13,9 @@
 
 **A few other things:**
 
-- 6x hackathon wins, including Top 4 at Y Combinator's Voice Agents Hackathon (May 30, 2026)
+- I've been on several winning hackathon teams, including one that won a $10,000 Patronus AI prize at the OpenEnv Hackathon.
 - I spent 7 quarters as an instructional assistant teaching intro data science at UCSD.
-- As a kid, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
+- Before AI, I peaked at #9 in the world in competitive Mario Kart Wii time trials and held 8 world records at once. I'm also a two-time marathoner.
 
 **Stack:** Python, TypeScript, FastAPI, React, Pipecat, vector DBs, and the usual LLM eval tooling.
 
